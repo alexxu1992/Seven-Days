@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.4.0)
+  - JSQMessagesViewController (7.3.4):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - Realm (2.5.0):
+    - Realm/Headers (= 2.5.0)
+  - Realm/Headers (2.5.0)
+  - RealmSwift (2.5.0):
+    - Realm (= 2.5.0)
+  - Socket.IO-Client-Swift (8.3.3)
+  - SSZipArchive (1.6.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - JSQMessagesViewController
+  - RealmSwift (~> 2.5.0)
+  - Socket.IO-Client-Swift (~> 8.3.3)
+  - SSZipArchive
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  JSQMessagesViewController: 39fed975e3c9f8eba7292071e29eeb541d105e66
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  Realm: 62abce501668580092d2be9b6ba7324a3d5f906a
+  RealmSwift: 9f1a8f624f2f153410115c2cb7d486be9976565d
+  Socket.IO-Client-Swift: a2faffdbde89c63aebc5d631041530c1068b02b8
+  SSZipArchive: 428eb1ac8d37dd133404d30f422b23958c1f9acc
+
+PODFILE CHECKSUM: 31266b1b3898ed5c0f07726fd7fb418bc36dab45
+
+COCOAPODS: 1.2.1.beta.1
